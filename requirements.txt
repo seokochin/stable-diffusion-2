@@ -1,4 +1,5 @@
-pip install gradio
-pip install torch
-pip install torchvision
-pip install diffusers
+gradio
+torch
+torchvision
+diffusers
+streamlit
